@@ -1,0 +1,36 @@
+[33mcommit 857240c4d6ab2bf3b1da95da98fc6358e5845346[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Fernando Rufino Barcelos <fernandosbarcelo27@gmail.com>
+Date:   Thu Mar 14 21:18:17 2024 -0300
+
+    AULA 1
+
+[33mcommit 85c167ba3ef7316956a6417404b38fe8e4960fe1[m
+Merge: 6f7a069 38a335f
+Author: Fernando Rufino Barcelos <fernandosbarcelo27@gmail.com>
+Date:   Thu Mar 14 21:16:33 2024 -0300
+
+    Merge branch 'main' of https://github.com/fernandorufinobarcelos/aula
+
+[33mcommit 6f7a069c0d7ecbf8d0690dd999e4f9e536c01c70[m
+Author: Fernando Rufino Barcelos <fernandosbarcelo27@gmail.com>
+Date:   Thu Mar 14 21:06:01 2024 -0300
+
+    Correção do README.md
+
+[33mcommit 38a335f9693ce9ba43a298879edd99754f45f6ed[m
+Author: fernandorufinobarcelos <129413508+fernandorufinobarcelos@users.noreply.github.com>
+Date:   Thu Mar 14 20:20:49 2024 -0300
+
+    Update README.md
+
+[33mcommit e88bcbf7f7a67f454ebb4d1ff6fca12d7cbebb88[m
+Author: fernandorufinobarcelos <129413508+fernandorufinobarcelos@users.noreply.github.com>
+Date:   Thu Mar 14 20:03:31 2024 -0300
+
+    Update README.md
+
+[33mcommit 0408bfd205f0ebcc9cf40b0da3330052db4bad2d[m
+Author: unknown <aluno@UNA07DT417317.animaedu.intranet>
+Date:   Thu Mar 14 19:46:10 2024 -0300
+
+    first commit
